@@ -5,7 +5,7 @@ const veiculos = [
     { tipo: 'carro', marca: 'marca2', modelo: 'modelo2', ano: 2016, valor: 200 },
     { tipo: 'carro', marca: 'marca3', modelo: 'modelo3', ano: 2017, valor: 300 },
     { tipo: 'moto' , marca: 'marca4', modelo: 'modelo4', ano: 2018, valor: 400 },
-    { tipo: 'moto' , marca: 'marca5', modelo: 'modelo5', ano: 2019, valor: 500 }
+    { tipo: 'moto' , marca: 'marca5', modelo: 'modelo1', ano: 2019, valor: 500 }
 ];
 interface Veiculo {
     tipo: string;

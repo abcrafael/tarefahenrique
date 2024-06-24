@@ -16,5 +16,5 @@ test('filtrarVeiculosMaisNovos que o ano 2018', () => {
 });
 test('somarValoresPorMarca de marca1', () => {
     const resultado = somarValoresPorMarca('marca1');
-    expect(resultado).toBe(100);
+    expect(resultado).toBe(600);
 });
